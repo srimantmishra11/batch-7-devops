@@ -1,4 +1,4 @@
-    1  ls
+all commands:  1  ls
     2  cd git-tutorial/
     3  ls
     4  git devops-project-batch-7/
