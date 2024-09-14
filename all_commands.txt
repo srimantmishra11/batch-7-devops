@@ -1,0 +1,18 @@
+    1  ls
+    2  cd git-tutorial/
+    3  ls
+    4  git devops-project-batch-7/
+    5  ls
+    6  cd devops-project-batch-7/
+    7  ls
+    8  git status
+    9  git add .
+   10  git commit -m "and they live happily ever after"
+   11  git status
+   12  rm majnu.txt 
+   13  git status
+   14  git restore majnu.txt 
+   15  ls
+   16  history
+   17  touch all_commands.txt
+   18  history > all_commands.txt 
